@@ -8,8 +8,7 @@ cc = "1.0"
 bindgen = "0.63"
 
 [dependencies]
-libc = "0.2.159"
-pnet = "0.35.0"
+libc = "0.2"
 
 [lib]
 path = "src/lib.rs"
